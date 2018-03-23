@@ -1,3 +1,11 @@
+		=============================================
+			    How compile GnuCompiler 
+		=============================================
+			 autoreconf -fvi
+			./configure --prefix=/usr
+			sudo make install
+		==============================================
+
 
 		                 GnuCOBOL
 		https://www.gnu.org/software/gnucobol/
